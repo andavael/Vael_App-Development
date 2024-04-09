@@ -4,7 +4,7 @@ AD Summer Guides revolutionizes travel planning by offering a comprehensive guid
 
 # APPLICATION FEATURES
 1. **User Accounts**
-   > Enable users to register and log in to accounts for managing bookings, accessing past tour records, and storing preferences.
+   > Enable users to register, log in, and log out to accounts for managing bookings, accessing past tour records, and storing preferences.
 2. **Tour Information**
    > Provide detailed information about various destinations, including available slots, available dates, and tour expenditure.
 3. **Cost Estimation**
@@ -17,8 +17,8 @@ AD Summer Guides revolutionizes travel planning by offering a comprehensive guid
    > Book tours based on desired destination (foreign or local), slots, and tour date, ensuring exclusive booking for each user, while also offering a receipt of booked tours
 7. **Ratings and Feedback**
    > Provide ratings on booking experience, destination, accommodation and overall travel experience.
-8. **Admin Features**
-    > For administrators, features include viewing booked tours with dates and user details, managing destinations (adding or removing), and viewing average ratings.
+8. **Admin Accounts and Features**
+    > For administrators, features include logging in, viewing booked tours with dates and user details, managing destinations (adding or removing), and viewing average ratings.
 
 
 
