@@ -1,6 +1,6 @@
 # AD SUMMER GUIDES 🏖️
 
-AD Summer Guides revolutionizes travel planning by offering a comprehensive guide to diverse destinations worldwide. With a focus on both local and foreign tours, this python application exclusively caters to tours for Summer 2024, specifically from April 1 to May 31, 2024.
+AD Summer Guides revolutionizes travel planning by offering a comprehensive guide to diverse destinations in the Philippines and worldwide. With a focus on both local and foreign tours, this python application exclusively caters to tours for Summer 2024, specifically from April 1 to May 31, 2024.
 
 # APPLICATION FEATURES
 1. **User Accounts**
